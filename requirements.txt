@@ -11,3 +11,8 @@ types-requests
 bs4
 langchain_core
 langchain-tavily
+langchain-groq
+langchain-community
+tavily-python
+geopy
+ipython
