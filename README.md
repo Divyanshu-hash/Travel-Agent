@@ -1,4 +1,4 @@
-# 🌍 AI Travel Agent
+# 🌍 AI Travel Planning Agent
 
 An intelligent, agentic travel planner powered by **LangGraph** and **Groq LLM** that generates personalized, budget-aware trip itineraries with real-time data.
 
